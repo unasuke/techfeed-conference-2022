@@ -3,10 +3,10 @@ id: techfeed-conference-2022
 base_name: slide
 tags:
   - ruby
-presentation_date: 2021-05-14
+presentation_date: 2022-05-14
 presentation_start_time: 
 presentation_end_time: 
-version: 1.0.0
+version: 1.0.1
 licenses: ['MIT']
 slideshare_id: 
 speaker_deck_id: 

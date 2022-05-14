@@ -39,7 +39,6 @@
 = コンテンツ
 
 最新動向の前に一旦これまでをおさらいしましょう
-\n\n
 
 * 2.7から3.0での変更
 * 3.0から3.1での変更
@@ -51,7 +50,6 @@
 * 型注釈の導入
 * キーワード引数の分離
 
-\n\n
 (('tag:x-small'))((<URL:https://www.ruby-lang.org/ja/news/2020/12/25/ruby-3-0-0-released/>))
 
 = 3.0から3.1での変更
@@ -63,7 +61,6 @@
 * IRBのオートコンプリート
 * JavaScript like Hash shorthand syntax
 
-\n\n
 (('tag:x-small'))((<URL:https://www.ruby-lang.org/ja/news/2021/12/25/ruby-3-1-0-released/>))
 
 = IRBのオートコンプリート
@@ -91,7 +88,6 @@
 
 CRubyのplatformとしてWASIを対象にすることが可能に、これによりブラウザ上でCRubyのコードが動くようになった
 (2022年1月)
-\n
 
 * ((<URL:https://github.com/ruby/ruby/pull/5407>))
 * ((<URL:https://bugs.ruby-lang.org/issues/18462>))
@@ -100,13 +96,10 @@ CRubyのplatformとしてWASIを対象にすることが可能に、これによ
   * ((<URL:https://rubyonbrowser.ongaeshi.me/>))
 
 = 最新動向 : 型
-\n\n
 (('tag:center'))(('tag:xx-large')) 絶賛開発中
 
-\n\n\n
 
 (('tag:x-small'))((<URL:https://speakerdeck.com/pocke/rbs-and-rails-present-and-future>))
-\n
 
 POROならうまくいく、Railsくらい大きなものはまだ課題が多い
 
@@ -114,8 +107,6 @@ POROならうまくいく、Railsくらい大きなものはまだ課題が多�
 * Rustとの関係性ができた
 * WebAssemblyで広がるRubyの活躍の場
 * 型はみんなで整備していこう
-
-\n\n\n
 
 Thanks!
 
